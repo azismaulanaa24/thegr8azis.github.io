@@ -1,5 +1,4 @@
-# thegr8azis.github.io
+HELLO THERE 👋
 
-Just Litle Project 👊
-
-# thegr8azis.ga
+My Portofolio
+# https://www.thegr8azis.ga
